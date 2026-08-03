@@ -1,0 +1,4 @@
+Login Module
+- User authentication
+- Email validation
+- Password encryption
